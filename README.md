@@ -16,5 +16,5 @@ Usage
 go get -u github.com/princebot/webcheck
 
 # Run with file containing a newline-delimited list of hostnames as input.
-resolve HOST_LIST_FILE
+webcheck FILE
 ```
